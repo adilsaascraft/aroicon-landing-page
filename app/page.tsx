@@ -22,11 +22,11 @@ Hosted By AROI West Bengal Chapter
         <div className="flex gap-4 mb-10">
           {/* App Store */}
           <Link
-            href="https://www.apple.com/in/app-store/"
+            href="https://apps.apple.com/in/app/aroicon/id6755627728"
             target="_blank"
             className="flex items-center gap-3 bg-black text-white px-5 py-3 rounded-xl shadow hover:scale-105 transition-all duration-200"
           >
-            <Apple size={28} />
+            <Image src="/apple.png" alt="appstore" width={40} height={40} />
             <span className="text-left leading-tight">
               <span className="text-xs">Download on the</span>
               <br />
@@ -36,11 +36,11 @@ Hosted By AROI West Bengal Chapter
 
           {/* Play Store */}
           <Link
-            href="https://play.google.com/store/apps"
+            href="https://play.google.com/store/apps/details?id=com.ashishsingh.AROICON"
             target="_blank"
             className="flex items-center gap-3 bg-black text-white px-5 py-3 rounded-xl shadow hover:scale-105 transition-all duration-200"
           >
-            <Play size={28} />
+            <Image src="/google.png" alt="playstore" width={40} height={40} />
             <span className="text-left leading-tight">
               <span className="text-xs">GET IT ON</span>
               <br />
