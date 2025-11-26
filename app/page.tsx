@@ -8,12 +8,13 @@ export default function LandingPage() {
       {/* Hero Section */}
       <section className="flex flex-col items-center text-center px-6 pt-20 pb-10 md:pt-28 md:pb-16">
         <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-          Exhibition and Conference Mobile App
+          AROICON 2025 KOLKATA
         </h1>
 
         <p className="text-lg md:text-xl text-gray-600 max-w-2xl mb-8">
-          From seamless event scheduling to real-time attendee engagement, our app empowers
-          organizers and participants to experience exhibitions and conferences like never before.
+          45TH ANNUAL CONFERENCE OF ASSOCIATION OF
+RADIATION ONCOLOGISTS OF INDIA
+Hosted By AROI West Bengal Chapter
         </p>
 
         {/* Store Buttons */}
