@@ -12,7 +12,8 @@ export default function LandingPage() {
         </h1>
 
         <p className="text-lg md:text-xl text-gray-600 max-w-2xl mb-8">
-          45TH ANNUAL CONFERENCE OF ASSOCIATION OF
+        <span className="text-indigo-600 hover:indigo-700 text-bold">27th - 30th November 2025 | Biswa Bangla Convention Centre</span><br />
+        45TH ANNUAL CONFERENCE OF ASSOCIATION OF
 RADIATION ONCOLOGISTS OF INDIA
 Hosted By AROI West Bengal Chapter
         </p>
