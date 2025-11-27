@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://www.aroicon2025kolkata.expocon.app",
-      "permanent": true
-    }
-  ]
-}
